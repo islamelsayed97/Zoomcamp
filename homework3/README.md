@@ -1,7 +1,7 @@
 # Homework 3
 
 in the above `data_loaders` and `data_exporters` you can find the Mage code used to get the data and load it to GCS bucket to be used in Bigquery.
-Below are the query used to answer the questions
+Below are the queries used to answer the questions
 
 ### Q1 query
 ```SELECT count(*) FROM `master-antenna-414015.green_taxi_nyc.taxi_rides` ```
